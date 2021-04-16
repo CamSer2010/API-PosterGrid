@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="HelloWorld" extends="Scene"> 
+<script type="text/brightscript" uri="helloworld.brs"/>
+<children>
+
+  <PosterGrid
+  id = "postergrid"
+  basePosterSize = "[236,240]" 
+  translation = "[200,100]"
+  numColumns = "5"
+  caption1NumLines = "1"
+  numRows = "1"/>
+
+  </children>
+
+</component>
